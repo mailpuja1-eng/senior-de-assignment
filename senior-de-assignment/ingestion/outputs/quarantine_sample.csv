@@ -1,0 +1,14 @@
+transaction_id,account_id,transaction_date,amount,currency,transaction_type,merchant_name,merchant_category,status,country_code,error_reason
+TXN-0345,ACC-1007,2024-11-31T14:22:00Z,67.4,GBP,debit,McDonald's,fast_food,completed,UK,Invalid calendar date in transaction_date; Invalid merchant_category; country_code is not an assigned ISO 3166-1 alpha-2 code
+TXN-0346,ACC-1014,2024-04-15 09:30:00,-127.5,USD,debit,   ,groceries,Completed,US,Invalid transaction_date format; amount must be > 0; merchant_name must contain non-whitespace; Invalid status
+TXN-0347,ACC-1003,2024-02-20T17:45:00Z,0.0,EUR,Credit,Deutsche Bank,Finance,completed,EN,amount must be > 0; Invalid transaction_type; Invalid merchant_category; country_code is not an assigned ISO 3166-1 alpha-2 code
+TXN-0345,ACC-1007,2024-11-31T14:22:00Z,67.4,GBP,debit,McDonald's,fast_food,completed,UK,Invalid calendar date in transaction_date; Invalid merchant_category; country_code is not an assigned ISO 3166-1 alpha-2 code
+TXN-0346,ACC-1014,2024-04-15 09:30:00,-127.5,USD,debit,   ,groceries,Completed,US,Invalid transaction_date format; amount must be > 0; merchant_name must contain non-whitespace; Invalid status
+TXN-0347,ACC-1003,2024-02-20T17:45:00Z,0.0,EUR,Credit,Deutsche Bank,Finance,completed,EN,amount must be > 0; Invalid transaction_type; Invalid merchant_category; country_code is not an assigned ISO 3166-1 alpha-2 code
+TXN-0345,ACC-1007,2024-11-31T14:22:00Z,67.4,GBP,debit,McDonald's,fast_food,completed,UK,Invalid calendar date in transaction_date; Invalid merchant_category; country_code is not an assigned ISO 3166-1 alpha-2 code
+TXN-0346,ACC-1014,2024-04-15 09:30:00,-127.5,USD,debit,   ,groceries,Completed,US,Invalid transaction_date format; amount must be > 0; merchant_name must contain non-whitespace; Invalid status
+TXN-0345,ACC-1007,2024-11-31T14:22:00Z,67.4,GBP,debit,McDonald's,fast_food,completed,UK,Invalid calendar date in transaction_date; Invalid merchant_category; country_code is not an assigned ISO 3166-1 alpha-2 code
+TXN-0346,ACC-1014,2024-04-15 09:30:00,-127.5,USD,debit,   ,groceries,Completed,US,Invalid transaction_date format; amount must be > 0; merchant_name must contain non-whitespace; Invalid status
+TXN-0345,ACC-1007,2024-11-31T14:22:00Z,67.4,GBP,debit,McDonald's,fast_food,completed,UK,Invalid calendar date in transaction_date; Invalid merchant_category; country_code is not an assigned ISO 3166-1 alpha-2 code
+TXN-0346,ACC-1014,2024-04-15 09:30:00,-127.5,USD,debit,   ,groceries,Completed,US,Invalid transaction_date format; amount must be > 0; merchant_name must contain non-whitespace; Invalid status
+TXN-0347,ACC-1003,2024-02-20T17:45:00Z,0.0,EUR,Credit,Deutsche Bank,Finance,completed,EN,amount must be > 0; Invalid transaction_type; Invalid merchant_category; country_code is not an assigned ISO 3166-1 alpha-2 code
